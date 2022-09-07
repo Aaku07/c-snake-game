@@ -1,2 +1,2 @@
-# c++-snake-game
-I have created c++ console based game . 
+# c++-snake game 
+its c++ console based game . 
